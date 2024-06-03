@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my about me repository! This repository contains the source code for my online resume, coded using HTML and CSS. The repository also includes my resume in PDF format.
+Welcome to my about me repository! This repository contains the source code for my online resume, coded using HTML and CSS. You can view my website online [here](https://zhyoung17.github.io/resume/).
 
 ## About Me
 
@@ -28,7 +28,6 @@ Implemented simulation theory to raw data and identified the most suitable car m
 ### Data Visualisation Intern
 **The Straits Times**
 - Blended data analytics and journalism to examine complex datasets and conceptualise innovative visualisation techniques, such as interactive charts, to enhance reader engagement and convey critical information, resulting in two produced articles.
-- Utilised R and Excel to scrape publicly available datasets, and worked with JavaScript to create interactive visualisations.
 
 ### Journalist Intern
 **The Straits Times**
@@ -39,10 +38,6 @@ Implemented simulation theory to raw data and identified the most suitable car m
 - **Varsity Table Tennis Team Vice-Captain**, NUS
 - **Volunteer Tutor**, Xin Yuan Community Care
 - **Table Tennis Team Captain**, Raffles Institution
-
-## How to View
-
-You can view my resume online [here](https://zhyoung17.github.io/resume/).
 
 ## Credit
 
